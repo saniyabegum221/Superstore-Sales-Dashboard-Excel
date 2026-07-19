@@ -35,6 +35,7 @@ This project is an interactive Sales Dashboard built in Microsoft Excel using th
 - Timeline Filter
 
 ---
+🎥 Project Demo: Watch the interactive dashboard demonstration in the repository.
 
 ## 📷 Dashboard Preview
 
